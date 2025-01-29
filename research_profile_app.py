@@ -6,7 +6,7 @@ st.title("Researcher Profile Page")
 
 # Collect basic information
 name = "Mfanafuthi Khoza"
-field = "Demand-Side Energy Management"
+field = "Demand-Side Energy Management."
 institution = "Vaal University of Technology"
 
 # Display basic profile information
