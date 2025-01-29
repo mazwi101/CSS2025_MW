@@ -16,7 +16,7 @@ st.write(f"**Field of Research:** {field}")
 st.write(f"**Institution:** {institution}")
 
 # Link to Google Scholar Profile
-st.link_button("Google Scholar Profile", "https://streamlit.io/gallery")
+st.link_button("Google Scholar Profile", "https://scholar.google.com")
 
 # Add a section for publications
 st.header("Publications")
